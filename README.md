@@ -38,7 +38,7 @@
 
 ### OUR AWESOME & BEST TOOLS ###
 <p align="center">
-<a href="https://github.com/Technical-WhiteHat/Cookies-Attack-2.0"><img title="cookies attcak 2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=Technical-WhiteHat&repo=Cookies-Attack-2.0&theme=radical"></a>
+<a href="https://github.com/Technical-WhiteHat/Cookies-Attack-2.0"><img title="cookies attcak 2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=Technical-WhiteHat&repo=Cookies-Attack-2.0&theme=outrun"></a>
 </p>
 ### Languages and Tools: ###
 
