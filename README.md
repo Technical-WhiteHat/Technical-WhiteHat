@@ -1,7 +1,8 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/@technicalwhitehat) 
-<p>
-  <h1 align="center"><b>Hello there, I'm Technical White Hat 👋</b></h1>
-</p>
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/@technicalwhitehat)
+ 
+# <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="50" height="50"/>&nbsp; HELLO GUY'S, I'M TECHNICAL WHITE HAT &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="50" height="50"/> </div>
+
+
 
 <p align="center">
     <img align="center" src="https://i.postimg.cc/6q1YjPsv/20221115-123916.png" width="200" />
@@ -21,16 +22,18 @@
 
 <img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-### I am a indian ethical hacker & Youtuber
-- 🔭 I’m currently working on my own channel :grin:
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: 
-    <a href=""> From my youtube channel and videos description</a>
-- 🧗 I try to: Create something new and useful
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+# I am a indian ethical hacker & Youtuber
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" alt="Relieved Face" width="20" height="20" /> I’m currently working on my own channel. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" height="20" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="20" height="20" /> I’m currently learning everything. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" height="20" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Standing%20Light%20Skin%20Tone.png" alt="Man Standing Light Skin Tone" width="20" height="20" /> I’m looking to collaborate with other Developers. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Juggling%20Medium-Light%20Skin%20Tone.png" alt="Person Juggling Medium-Light Skin Tone" width="20" height="20" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Running%20Light%20Skin%20Tone.png" alt="Person Running Light Skin Tone" width="20" height="20" /> 2024 Goals: Contribute to Open Source projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers.png" alt="Crossed Fingers" width="20" height="20" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="20" height="20" /> Ask me about anything, I am happy to help. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="20" height="20" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="20" height="20" /> How to reach me: 
+    <a href="https://bit.ly/3RzjdHX"> From my youtube channel and videos description.</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="20" height="20" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="20" height="20" /> I try to: Create something new and useful. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="20" height="20" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="20" height="20" /> Fun fact: I love connecting with different people. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20in%20Tuxedo%20Medium-Light%20Skin%20Tone.png" alt="Man in Tuxedo Medium-Light Skin Tone" width="20" height="20" />
+</div>
 
 <br>
 <p align="center"><a href="https://github.com/Technical-WhiteHat"><img title="Technical White Hat" src="https://github-readme-stats.vercel.app/api?username=Technical-WhiteHat&theme=ambient_gradient&show_icons=true"></a>
@@ -71,7 +74,7 @@
 <br>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring my repositories & subscribe YouTube channel</h3>
+<h1 align="center">Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="75" height="75" /> by starring my repositories & subscribe YouTube channel</h1>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 
